@@ -1,6 +1,6 @@
 # Real-World CloudOps with PowerShell Runbooks in Azure Automation
 
-This repository contains production-ready PowerShell runbook examples demonstrated in the "Real-World CloudOps with PowerShell Runbooks in Azure Automation" webinar. These runbooks showcase practical patterns for automating common Azure operational tasks using Azure Automation!
+This repository contains production-ready PowerShell runbook examples demonstrated in the "Real-World CloudOps with PowerShell Runbooks in Azure Automation" webinar. These runbooks showcase practical patterns for automating common Azure operational tasks using Azure Automation.
 
 ## Table of Contents
 
